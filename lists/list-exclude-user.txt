@@ -1,0 +1,2 @@
+domain.example.abc
+# SquareSystemSucceed/zapretdiscord 388df3a7597e
